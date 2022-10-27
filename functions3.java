@@ -15,6 +15,6 @@ public static void main(String args[]){
     int product = multiplyInt(a, b);
 
     System.out.println("The product of the two integers is: "+product);
-
+    sc.close();
 }
 }

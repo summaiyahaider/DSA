@@ -16,6 +16,6 @@ public static void main(String args[]) {
 
 
     printMyName(name);
-    
+    sc.close();
 }
 }
