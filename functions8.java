@@ -23,7 +23,9 @@ public class functions8 {
 
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-        
+
+        sc.close();
+
         fibonacciNumbers(x);
     }
 }
