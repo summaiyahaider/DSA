@@ -55,14 +55,7 @@ public class TwoD5 {
 
     System.out.println("The largest element is " + x);
     System.out.println("The smallest element is " + y);
-
-
     
-
-
-
-
-
     }
 
     
